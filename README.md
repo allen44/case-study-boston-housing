@@ -1,2 +1,2 @@
-# case-study-boston-housing1
+# case-study-boston-housing
 Case Study - Boston Housing
